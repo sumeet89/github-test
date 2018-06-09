@@ -1,3 +1,4 @@
 another new file
-conflicting change
+conflicting chang
 voilaa...
+another chnageß
